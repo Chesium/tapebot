@@ -1,0 +1,6 @@
+.tmp
+*.bat
+./*.json
+*__*
+.dist
+.vscode
